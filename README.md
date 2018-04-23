@@ -17,6 +17,8 @@
 
 4. 无模型控制（Model-Free Control）：优化一个未知MDP的价值函数
 
+5. 价值函数近似（Value Function Approximation）：通过函数近似来用更少的参数来表示价值函数
+
 # 参考文献
 
 1. http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
