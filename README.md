@@ -19,6 +19,10 @@
 
 5. 价值函数近似（Value Function Approximation）：通过函数近似来用更少的参数来表示价值函数
 
+6. 策略梯度方法（Policy Gradient）：不借助价值函数而是直接对策略进行参数化和优化
+
+7. 学习和规划的整合（Integrating Learning and Planning）：把学习和规划整合到同一个框架中，包括基于价值的学习、基于策略的学习和基于模型的学习
+
 # 参考文献
 
 1. http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
@@ -28,3 +32,5 @@
 3. Sutton, R.S. and Barto, A.G., 1998. Reinforcement learning: An introduction. Cambridge: MIT press.
 
 4. Szepesvári, C., 2010. Algorithms for reinforcement learning. Synthesis lectures on artificial intelligence and machine learning
+
+5. https://github.com/dennybritz/reinforcement-learning
