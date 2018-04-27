@@ -9,21 +9,23 @@
 
 # 索引
 
-1. 马尔科夫决策过程（Markov Decision Process）：马尔科夫决策过程是强化学习框架中用来描述环境的模型。
+## 1. 强化学习基础（David Silver版本）
 
-2. 动态规划（Dynamic Programming）：动态规划用马尔科夫决策过程作为环境的模型，用策略评估和策略改进来得到基于最优价值函数的最优策略。
+1.1. 马尔科夫决策过程（Markov Decision Process）：马尔科夫决策过程是强化学习框架中用来描述环境的模型。
 
-3. 无模型预测（Model-Free Prediction）：估计一个未知MDP的价值函数。用策略得出价值函数，也叫预测问题。
+1.2. 动态规划（Dynamic Programming）：动态规划用马尔科夫决策过程作为环境的模型，用策略评估和策略改进来得到基于最优价值函数的最优策略。
 
-4. 无模型控制（Model-Free Control）：优化一个未知MDP的价值函数。用价值函数得出策略，也叫控制问题。
+1.3. 无模型预测（Model-Free Prediction）：估计一个未知MDP的价值函数。用策略得出价值函数，也叫预测问题。
 
-5. 价值函数近似（Value Function Approximation）：通过函数近似来用更少的参数来表示价值函数。
+1.4. 无模型控制（Model-Free Control）：优化一个未知MDP的价值函数。用价值函数得出策略，也叫控制问题。
 
-6. 策略梯度方法（Policy Gradient）：不借助价值函数而是直接对策略进行参数化和优化。
+1.5. 价值函数近似（Value Function Approximation）：通过函数近似来用更少的参数来表示价值函数。
 
-7. 学习和规划的整合（Integrating Learning and Planning）：把学习和规划整合到同一个框架中，包括基于价值的学习、基于策略的学习和基于模型的学习。
+1.6. 策略梯度方法（Policy Gradient）：不借助价值函数而是直接对策略进行参数化和优化。
 
-8. 探索与应用（Exploration and Exploitation）：在有限的资源中，在收集新信息和利用现有信息之间的权衡也是强化学习中的一个重要课题。
+1.7. 学习和规划的整合（Integrating Learning and Planning）：把学习和规划整合到同一个框架中，包括基于价值的学习、基于策略的学习和基于模型的学习。
+
+1.8. 探索与应用（Exploration and Exploitation）：在有限的资源中，在收集新信息和利用现有信息之间的权衡也是强化学习中的一个重要课题。
 
 # 参考文献
 
