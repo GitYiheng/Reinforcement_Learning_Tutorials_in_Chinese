@@ -23,6 +23,8 @@
 
 7. 学习和规划的整合（Integrating Learning and Planning）：把学习和规划整合到同一个框架中，包括基于价值的学习、基于策略的学习和基于模型的学习。
 
+8. 探索与应用（Exploration and Exploitation）：在有限的资源中，在收集新信息和利用现有信息之间的权衡也是强化学习中的一个重要课题。
+
 # 参考文献
 
 1. http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
