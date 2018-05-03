@@ -5,7 +5,7 @@
 
 如果能帮助到正在学习的同学我会非常开心。
 
-如果发现任何错误，欢迎issue或者联系我：gityiheng@gmail.com
+如果发现任何错误或者有任何的建议，欢迎issue或者联系我：gityiheng@gmail.com 或者 yiheng.zhu@bristol.ac.uk
 
 # 索引
 
@@ -27,14 +27,38 @@
 
 1.8. 探索与应用（Exploration and Exploitation）：在有限的资源中，在收集新信息和利用现有信息之间的权衡也是强化学习中的一个重要课题。
 
-# 参考文献
+### 强化学习基础参考文献
 
-1. http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+1. David Silver的讲义：http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
-2. https://www.youtube.com/watch?v=2pWv7GOvuf0
+2. David Silver在UCL的视频课程：https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 3. Sutton, R.S. and Barto, A.G., 1998. Reinforcement learning: An introduction. Cambridge: MIT press.
 
-4. Szepesvári, C., 2010. Algorithms for reinforcement learning. Synthesis lectures on artificial intelligence and machine learning
+4. 基础强化学习问题和代码的简单实现：https://github.com/dennybritz/reinforcement-learning
 
-5. https://github.com/dennybritz/reinforcement-learning
+5. Szepesvári, C., 2010. Algorithms for reinforcement learning. Synthesis lectures on artificial intelligence and machine learning
+
+## 2. 深度强化学习
+
+2.1. 深度强化学习综述（Deep Reinforcement Learning Review）
+
+2.2. 近端策略优化（Proximal Policy Optimisation）
+
+2.3. 信赖域策略优化（Trust Region Policy Optimisation）
+
+2.4. 机器人强化学习综述（Reinforcement Learning in Robotics Review）
+
+### 深度强化学习参考文献
+
+1. Arulkumaran, K., Deisenroth, M.P., Brundage, M. and Bharath, A.A., 2017. A brief survey of deep reinforcement learning. arXiv preprint arXiv:1708.05866.
+
+2. Henderson, P., Islam, R., Bachman, P., Pineau, J., Precup, D. and Meger, D., 2017. Deep reinforcement learning that matters. arXiv preprint arXiv:1709.06560.
+
+3. Schulman, J., Wolski, F., Dhariwal, P., Radford, A. and Klimov, O., 2017. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347.
+
+4. Schulman, J., Levine, S., Abbeel, P., Jordan, M. and Moritz, P., 2015, June. Trust region policy optimization. In International Conference on Machine Learning (pp. 1889-1897).
+
+5. Kober, J., Bagnell, J.A. and Peters, J., 2013. Reinforcement learning in robotics: A survey. The International Journal of Robotics Research, 32(11), pp.1238-1274.
+
+
