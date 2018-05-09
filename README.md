@@ -61,4 +61,9 @@
 
 5. Kober, J., Bagnell, J.A. and Peters, J., 2013. Reinforcement learning in robotics: A survey. The International Journal of Robotics Research, 32(11), pp.1238-1274.
 
+# 安装Jupyter Notebook
 
+```bash
+pip3 install --upgrade pip
+pip3 install jupyter
+```
