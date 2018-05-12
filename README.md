@@ -3,8 +3,6 @@
 
 这个GitHub Repo是我个人在学习强化学习过程中所做的笔记。
 
-如果能帮助到正在学习的同学我会非常开心。
-
 如果发现任何错误或者有任何的建议，欢迎issue或者联系我：gityiheng@gmail.com 或者 yiheng.zhu@bristol.ac.uk
 
 # 索引
@@ -41,13 +39,17 @@
 
 ## 2. 深度强化学习
 
-2.1. 深度强化学习综述（Deep Reinforcement Learning Review）
+2.1. 深度强化学习编年史（Chronicle for Deep Reinforcement Learning）
 
-2.2. 近端策略优化（Proximal Policy Optimisation）
+2.2. 深度强化学习综述（Deep Reinforcement Learning Review）
 
-2.3. 信赖域策略优化（Trust Region Policy Optimisation）
+2.3. 机器人强化学习（Reinforcement Learning in Robotics）
 
-2.4. 机器人强化学习综述（Reinforcement Learning in Robotics Review）
+2.4. TRPO
+
+2.5. A3C
+
+2.6. PPO
 
 ### 深度强化学习参考文献
 
@@ -55,11 +57,27 @@
 
 2. Henderson, P., Islam, R., Bachman, P., Pineau, J., Precup, D. and Meger, D., 2017. Deep reinforcement learning that matters. arXiv preprint arXiv:1709.06560.
 
-3. Schulman, J., Wolski, F., Dhariwal, P., Radford, A. and Klimov, O., 2017. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347.
+3. Kober, J., Bagnell, J.A. and Peters, J., 2013. Reinforcement learning in robotics: A survey. The International Journal of Robotics Research, 32(11), pp.1238-1274.
 
-4. Schulman, J., Levine, S., Abbeel, P., Jordan, M. and Moritz, P., 2015, June. Trust region policy optimization. In International Conference on Machine Learning (pp. 1889-1897).
+4. Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D. and Riedmiller, M., 2013. Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602.
 
-5. Kober, J., Bagnell, J.A. and Peters, J., 2013. Reinforcement learning in robotics: A survey. The International Journal of Robotics Research, 32(11), pp.1238-1274.
+5. Schulman, J., Levine, S., Abbeel, P., Jordan, M. and Moritz, P., 2015, June. Trust region policy optimization. In International Conference on Machine Learning (pp. 1889-1897).
+
+6. Lillicrap, T.P., Hunt, J.J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D. and Wierstra, D., 2015. Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971.
+
+7. Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. and Kavukcuoglu, K., 2016, June. Asynchronous methods for deep reinforcement learning. In International Conference on Machine Learning (pp. 1928-1937).
+
+8. Ho, J. and Ermon, S., 2016. Generative adversarial imitation learning. In Advances in Neural Information Processing Systems (pp. 4565-4573).
+
+9. Wang, Z., Bapst, V., Heess, N., Mnih, V., Munos, R., Kavukcuoglu, K. and de Freitas, N., 2016. Sample efficient actor-critic with experience replay. arXiv preprint arXiv:1611.01224.
+
+10. Andrychowicz, M., Wolski, F., Ray, A., Schneider, J., Fong, R., Welinder, P., McGrew, B., Tobin, J., Abbeel, O.P. and Zaremba, W., 2017. Hindsight experience replay. In Advances in Neural Information Processing Systems (pp. 5048-5058).
+
+11. Schulman, J., Wolski, F., Dhariwal, P., Radford, A. and Klimov, O., 2017. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347.
+
+12. Wu, Y., Mansimov, E., Grosse, R.B., Liao, S. and Ba, J., 2017. Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation. In Advances in neural information processing systems (pp. 5285-5294).
+
+13. https://github.com/openai/baselines
 
 # 安装Jupyter Notebook
 
@@ -67,3 +85,5 @@
 pip3 install --upgrade pip
 pip3 install jupyter
 ```
+
+打开命令窗口，输入`jupyter notebook`打开Jupyter。
