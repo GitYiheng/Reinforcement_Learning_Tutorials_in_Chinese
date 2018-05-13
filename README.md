@@ -37,19 +37,25 @@
 
 5. Szepesvári, C., 2010. Algorithms for reinforcement learning. Synthesis lectures on artificial intelligence and machine learning
 
-## 2. 深度强化学习
+## 2. 深度强化学习编年史
 
-2.1. 深度强化学习编年史（Chronicle for Deep Reinforcement Learning）
+2013 - Deep Q-Networks (DQN)
 
-2.2. 深度强化学习综述（Deep Reinforcement Learning Review）
+2015 - Trust Region Policy Optimization (TRPO)
 
-2.3. 机器人强化学习（Reinforcement Learning in Robotics）
+2015 - Deep Deterministic Policy Gradient (DDPG)
 
-2.4. TRPO
+2016 - Asynchronous Advantage Actor-Critic (A3C)
 
-2.5. A3C
+2016 - Generative Adversarial Imitation Learning (GAIL)
 
-2.6. PPO
+2016 - Actor-Critic with Experience Replay (ACER)
+
+2017 - Hindsight Experience Replay (HER)
+
+2017- Proximal Policy Optimization (PPO)
+
+2017 - Actor-Critic using Kronecker-Factored Trust Region (ACKTR)
 
 ### 深度强化学习参考文献
 
