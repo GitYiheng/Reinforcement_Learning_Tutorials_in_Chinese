@@ -39,11 +39,11 @@
 
 ## 2. 深度强化学习编年史
 
-2013 - Deep Q-Networks (DQN)
+2013 - Deep Q-Networks (DQN)：从高维视觉输入中直接学习控制策略。
 
 2015 - Trust Region Policy Optimization (TRPO)
 
-2015 - Deep Deterministic Policy Gradient (DDPG)
+2015 - Deep Deterministic Policy Gradient (DDPG)：解决了DQN无法处理的动作空间是连续的问题。
 
 2016 - Asynchronous Advantage Actor-Critic (A3C)
 
