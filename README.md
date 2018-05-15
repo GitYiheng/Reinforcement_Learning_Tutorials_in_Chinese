@@ -85,6 +85,8 @@
 
 13. https://github.com/openai/baselines
 
+14. http://rll.berkeley.edu/deeprlcourse/
+
 # 安装Jupyter Notebook
 
 ```bash
