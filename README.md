@@ -55,7 +55,7 @@
 
 2017 - Hindsight Experience Replay (HER)
 
-2017- Proximal Policy Optimization (PPO)
+2017- Proximal Policy Optimization (PPO)：PPO只用一阶优化方法就取得了TRPO的数据效率和可靠的性能。
 
 2017 - Actor-Critic using Kronecker-Factored Trust Region (ACKTR)
 
