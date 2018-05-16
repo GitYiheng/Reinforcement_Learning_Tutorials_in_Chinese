@@ -39,6 +39,8 @@
 
 ## 2. 深度强化学习编年史
 
+2002 - Natural Policy Gradient
+
 2013 - Deep Q-Networks (DQN)：从高维视觉输入中直接学习控制策略。
 
 2015 - Trust Region Policy Optimization (TRPO)
@@ -53,7 +55,7 @@
 
 2017 - Hindsight Experience Replay (HER)
 
-2017- Proximal Policy Optimization (PPO)
+2017- Proximal Policy Optimization (PPO)：PPO只用一阶优化方法就取得了TRPO的数据效率和可靠的性能。
 
 2017 - Actor-Critic using Kronecker-Factored Trust Region (ACKTR)
 
@@ -83,9 +85,11 @@
 
 12. Wu, Y., Mansimov, E., Grosse, R.B., Liao, S. and Ba, J., 2017. Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation. In Advances in neural information processing systems (pp. 5285-5294).
 
-13. https://github.com/openai/baselines
+13. Kakade, S.M., 2002. A natural policy gradient. In Advances in neural information processing systems (pp. 1531-1538).
 
-14. http://rll.berkeley.edu/deeprlcourse/
+14. https://github.com/openai/baselines
+
+15. http://rll.berkeley.edu/deeprlcourse/
 
 # 安装Jupyter Notebook
 
