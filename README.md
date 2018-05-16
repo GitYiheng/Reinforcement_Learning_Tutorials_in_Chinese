@@ -85,9 +85,11 @@
 
 12. Wu, Y., Mansimov, E., Grosse, R.B., Liao, S. and Ba, J., 2017. Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation. In Advances in neural information processing systems (pp. 5285-5294).
 
-13. https://github.com/openai/baselines
+13. Kakade, S.M., 2002. A natural policy gradient. In Advances in neural information processing systems (pp. 1531-1538).
 
-14. http://rll.berkeley.edu/deeprlcourse/
+14. https://github.com/openai/baselines
+
+15. http://rll.berkeley.edu/deeprlcourse/
 
 # 安装Jupyter Notebook
 
