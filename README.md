@@ -39,6 +39,8 @@
 
 ## 2. 深度强化学习编年史
 
+2002 - Natural Policy Gradient
+
 2013 - Deep Q-Networks (DQN)：从高维视觉输入中直接学习控制策略。
 
 2015 - Trust Region Policy Optimization (TRPO)
