@@ -45,7 +45,7 @@
 
 2015 - Deep Deterministic Policy Gradient (DDPG)：解决了DQN无法处理的动作空间是连续的问题。
 
-2016 - Asynchronous Advantage Actor-Critic (A3C)
+2016 - Asynchronous Advantage Actor-Critic (A3C)：在多核CPU上实现异步强化学习，实现与基于GPU的experience replay类似的稳定更新效果。
 
 2016 - Generative Adversarial Imitation Learning (GAIL)
 
