@@ -37,7 +37,11 @@
 
 5. Szepesvári, C., 2010. Algorithms for reinforcement learning. Synthesis lectures on artificial intelligence and machine learning
 
-## 2. 深度强化学习编年史
+## 2. 深度强化学习
+
+Deep Reinforcement Learning that Matters (2017)：深度强化学习算法实验的可再现性（可重复性）和规范操作。
+
+### 深度强化学习编年史
 
 2002 - Natural Policy Gradient
 
@@ -48,8 +52,6 @@
 2015 - Deep Deterministic Policy Gradient (DDPG)：解决了DQN无法处理的动作空间是连续的问题。
 
 2016 - Asynchronous Advantage Actor-Critic (A3C)：在多核CPU上实现异步强化学习，实现与基于GPU的experience replay类似的稳定更新效果。
-
-2016 - Generative Adversarial Imitation Learning (GAIL)
 
 2016 - Actor-Critic with Experience Replay (ACER)
 
@@ -75,7 +77,7 @@
 
 7. Mnih, V., Badia, A.P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., Silver, D. and Kavukcuoglu, K., 2016, June. Asynchronous methods for deep reinforcement learning. In International Conference on Machine Learning (pp. 1928-1937).
 
-8. Ho, J. and Ermon, S., 2016. Generative adversarial imitation learning. In Advances in Neural Information Processing Systems (pp. 4565-4573).
+8. Kakade, S.M., 2002. A natural policy gradient. In Advances in neural information processing systems (pp. 1531-1538).
 
 9. Wang, Z., Bapst, V., Heess, N., Mnih, V., Munos, R., Kavukcuoglu, K. and de Freitas, N., 2016. Sample efficient actor-critic with experience replay. arXiv preprint arXiv:1611.01224.
 
@@ -85,11 +87,9 @@
 
 12. Wu, Y., Mansimov, E., Grosse, R.B., Liao, S. and Ba, J., 2017. Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation. In Advances in neural information processing systems (pp. 5285-5294).
 
-13. Kakade, S.M., 2002. A natural policy gradient. In Advances in neural information processing systems (pp. 1531-1538).
+13. https://github.com/openai/baselines
 
-14. https://github.com/openai/baselines
-
-15. http://rll.berkeley.edu/deeprlcourse/
+14. http://rll.berkeley.edu/deeprlcourse/
 
 # 安装Jupyter Notebook
 
