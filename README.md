@@ -43,7 +43,7 @@
 
 2013 - Deep Q-Networks (DQN)：从高维视觉输入中直接学习控制策略。
 
-2015 - Trust Region Policy Optimization (TRPO)
+2015 - Trust Region Policy Optimization (TRPO)：具有可扩展性并且可以优化大规模非线性策略，这两点都是之前的无模型策略搜索难以实现的。
 
 2015 - Deep Deterministic Policy Gradient (DDPG)：解决了DQN无法处理的动作空间是连续的问题。
 
