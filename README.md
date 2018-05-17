@@ -37,13 +37,19 @@
 
 5. Szepesvári, C., 2010. Algorithms for reinforcement learning. Synthesis lectures on artificial intelligence and machine learning
 
-## 2. 深度强化学习
+## 2. 强化学习重要算法
+
+2002 - Natural Policy Gradient
+
+### 强化学习参考文献
+
+1. Kakade, S.M., 2002. A natural policy gradient. In Advances in neural information processing systems (pp. 1531-1538).
+
+## 3. 深度强化学习
 
 Deep Reinforcement Learning that Matters (2017)：深度强化学习算法实验的可再现性（可重复性）和规范操作。
 
 ### 深度强化学习编年史
-
-2002 - Natural Policy Gradient
 
 2013 - Deep Q-Networks (DQN)：从高维视觉输入中直接学习控制策略。
 
