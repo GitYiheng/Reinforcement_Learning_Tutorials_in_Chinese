@@ -39,7 +39,7 @@
 
 ## 2. 强化学习重要算法
 
-2002 - Natural Policy Gradient
+2002 - Natural Policy Gradient (NPG)
 
 ### 强化学习参考文献
 
