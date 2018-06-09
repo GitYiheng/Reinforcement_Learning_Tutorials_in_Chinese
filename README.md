@@ -37,6 +37,8 @@
 
 5. Szepesvári, C., 2010. Algorithms for reinforcement learning. Synthesis lectures on artificial intelligence and machine learning
 
+6. https://mpatacchiola.github.io/blog/
+
 ## 2. 强化学习重要算法
 
 2002 - Natural Policy Gradient (NPG)
@@ -47,7 +49,7 @@
 
 ## 3. 深度强化学习
 
-Deep Reinforcement Learning that Matters (2017)：深度强化学习算法实验的可再现性（可重复性）和规范操作。
+2017 - Deep Reinforcement Learning that Matters：深度强化学习算法实验的可再现性（可重复性）和规范操作。
 
 ### 深度强化学习编年史
 
